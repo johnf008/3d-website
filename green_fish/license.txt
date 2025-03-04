@@ -1,0 +1,8 @@
+Model Information:
+* title:	Green fish
+* source:	https://sketchfab.com/3d-models/green-fish-e8c06ff391bd4265931049b3f3c554d9
+* author:	assetfactory (https://sketchfab.com/assetfactory)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
